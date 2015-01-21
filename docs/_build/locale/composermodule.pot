@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../composermodule.rst:3
+# 12359ac5815f4f519d2394730ddef16c
+msgid "Composer"
+msgstr ""
+
+#: ../../composermodule.rst:6
+# 05ff95e800ee411b9b545f673a742b6c
+msgid "Synopsis"
+msgstr ""
+
+#: ../../composermodule.rst:8
+# 103f7c04aa0148edb6c36f62360e09b3
+msgid "Composer is an application-level dependency manager for the PHP programming language that provides a standard format for managing dependencies of PHP software and required libraries."
+msgstr ""
+
+#: ../../composermodule.rst:10
+# 98761e448322489bbe170bf064612249
+msgid "It allows you to declare the dependent libraries your project needs and it will install them in your project for you. Composer is multi-platform and we strive to make it run equally well on Windows, Linux and OSX."
+msgstr ""
+
+#: ../../composermodule.rst:13
+# 3780aa15cf4e4078a2816374c7105311
+msgid "Help Command"
+msgstr ""
+
+#: ../../composermodule.rst:15
+# c85116f8f3ce4c4190651456ec5cef51
+msgid "This command helps to determine the usage of composer module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../composermodule.rst:39
+# 55807b57093a4b08b52fa14e7fc0f14b
+msgid "Installation"
+msgstr ""
+
+#: ../../composermodule.rst:41
+# dd1b4f8b6ce540f5a76fdbbbf3745bf6
+msgid "When the user needs to install composer module in machine, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../composermodule.rst:47
+# 94ae030af40245e0a74a29b8b240dea6
+msgid "While installing, the system ask for the directory name, if you wants to set up your PATH, you can define your path. Define your path has to be followed by '/' symbol. Press Enter to use default path."
+msgstr ""
+
+#: ../../composermodule.rst:49
+# 6a7b0b5ba5534a2e96155c1cf0b44d79
+msgid "\"What is the program data directory? \"/opt/composer\" - use this?"
+msgstr ""
+
+#: ../../composermodule.rst:51
+# 254c4abbc96f4eceb25d9091e29bd6d6
+msgid "While installing, the system ask for executing directory name, if you wants to set up your PATH, you can define your path. Define your path has to be followed by '/' symbol. Press Enter to use default path."
+msgstr ""
+
+#: ../../composermodule.rst:53
+# d36ef747921249899f952e29ea1a6225
+msgid "\"What is the program executer directory? Found \"/usr/bin\" - Use this? \""
+msgstr ""
+
+#: ../../composermodule.rst:59
+# 5839a72fb31744f89c09ecbbfaa1bb60
+msgid "Options"
+msgstr ""
+
+#: ../../composermodule.rst:66
+# c4252f5afa15416e868eaa9525ec898d
+msgid "Parameters"
+msgstr ""
+
+#: ../../composermodule.rst:66
+# a5f1aecb199344af88f7c353ca82936d
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../composermodule.rst:66
+# 956d685ef7424eff934719cb1b3c5c3b
+msgid "Option"
+msgstr ""
+
+#: ../../composermodule.rst:66
+# 0e93bb9bad0f41d7b6a020ba25373073
+msgid "Comments"
+msgstr ""
+
+#: ../../composermodule.rst:68
+#: ../../composermodule.rst:70
+# d867b76470324f5e96ee57d82510e5c4
+# 75b90239600241b28f83379941ecbc4d
+msgid "cleopatra composer Install"
+msgstr ""
+
+#: ../../composermodule.rst:68
+#: ../../composermodule.rst:70
+# d12344c3f8874d1a9e80e5b7e20c40c1
+# 7e67b6fcda184b8a8532afcb942387c4
+msgid "Composer , composer"
+msgstr ""
+
+#: ../../composermodule.rst:68
+# 3da207613fa8421fa39f823677a556bb
+msgid "Y"
+msgstr ""
+
+#: ../../composermodule.rst:68
+# 6e02b1f29ca04353bc6869cfa9c3aeff
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../composermodule.rst:70
+# 093249e5103d4b488b6c46336e7e4626
+msgid "N"
+msgstr ""
+
+#: ../../composermodule.rst:70
+# 4a9807a7f3e74a6b84a382675b6c9be0
+msgid "System stops installation process|"
+msgstr ""
+
+#: ../../composermodule.rst:75
+# 4752c93ce4c84bdfa95fc5d6cdeebf66
+msgid "Benefits"
+msgstr ""
+
+#: ../../composermodule.rst:77
+# 6ee6541fd65f4c02a87e558169e9f14e
+msgid "It installs dependencies (e.g. libraries) for an application."
+msgstr ""
+
+#: ../../composermodule.rst:78
+# a60e095da3384aca83625464e03cd014
+msgid "It also allows users to install PHP applications that are available on \"Packagist\" which is its main repository containing available packages. It also provides auto load capabilities for libraries that specify auto load information to ease usage of third-party code."
+msgstr ""
+

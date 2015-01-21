@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../mysqladmin.rst:3
+# 8c5af2f848114450a3514f0c8141615e
+msgid "MysqlAdmins"
+msgstr ""
+
+#: ../../mysqladmin.rst:6
+# 9a6375b7f93b46f38d7dcff0b1613dd9
+msgid "Synopsis"
+msgstr ""
+
+#: ../../mysqladmin.rst:8
+# 274f5c669a8f48e6ae78fd4ba4e8be22
+msgid "This module assists in installing and as well as managing the admin users for mysql without using root user. By using this, the users can manage their administrative functions."
+msgstr ""
+
+#: ../../mysqladmin.rst:11
+# e145fd4e0fed49cabe3e963f41262a96
+msgid "Help Command"
+msgstr ""
+
+#: ../../mysqladmin.rst:13
+# 44bce0ecd9bc47c08a4277274e325dfd
+msgid "The Help command guides the users regarding the command used for installing the mysql admins, and also its advantages. The command used for help option under this mysql admins is shown below."
+msgstr ""
+
+#: ../../mysqladmin.rst:19
+# e9a8a9fef647467b8c3fc716d48933b2
+msgid "The screen shot as given below can lead the user in handling the help command for mysql admins."
+msgstr ""
+
+#: ../../mysqladmin.rst:43
+# 97550159c58f49ee99ec10400215c1b4
+msgid "Installation"
+msgstr ""
+
+#: ../../mysqladmin.rst:45
+# 166cc1b650d1449ea1a29a19e5ba6751
+msgid "Installing mysql admins to your machine facilitates the users to specify and manage their administrative actions. The command used for installing mysql admins is marked below."
+msgstr ""
+
+#: ../../mysqladmin.rst:51
+# 379e517cfa4344fc8fcf35c7e8d9fa50
+msgid "In addition, the following operations shown in a tabular format occurs."
+msgstr ""
+
+#: ../../mysqladmin.rst:58
+# dc29d969be0e4795b91bc55865a9efe0
+msgid "Parameters"
+msgstr ""
+
+#: ../../mysqladmin.rst:58
+# 7f3ef820b02b4d23b5b0c71fcf6e89c8
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../mysqladmin.rst:58
+# d8aaf0fa720b414e83b2b3c195dea08a
+msgid "option"
+msgstr ""
+
+#: ../../mysqladmin.rst:58
+# b831ba57923043faa6c3455aac6158b2
+msgid "Comments"
+msgstr ""
+
+#: ../../mysqladmin.rst:60
+# 33a019f4a021496fbecee96ede1c6811
+msgid "Install Admin User for MySQL? (Y/N)"
+msgstr ""
+
+#: ../../mysqladmin.rst:60
+# 8c1fbefdd73744a49f01c5b79fe1d457
+msgid "In the place of MysqlAdmins these alternative names can be used:mysql-admins,mysqladmins."
+msgstr ""
+
+#: ../../mysqladmin.rst:60
+# 10f1fe59573d44b780b7474f29432a62
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../mysqladmin.rst:60
+# 095010ae3296479cad694c1f5e3fa69c
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../mysqladmin.rst:64
+# e10fa83638cd4aa8b502d74acfbc90ed
+msgid "Install MySQL Server? (Y/N)"
+msgstr ""
+
+#: ../../mysqladmin.rst:64
+# 5471f33cc6994dfcb3e6d72476ff0521
+msgid "mysql-admins,mysqladmins."
+msgstr ""
+
+#: ../../mysqladmin.rst:64
+# d4406c8d596d4a6cb1c8ba3fa5a97c29
+msgid "N(NO)"
+msgstr ""
+
+#: ../../mysqladmin.rst:64
+# 5a09cbe749df4e0bbf4a704f28afbe34
+msgid "If the user wish to quit the installation process they can input as N|"
+msgstr ""
+
+#: ../../mysqladmin.rst:70
+# f6baea85844c4c6aa2ed2f21586ff9cc
+msgid "If the user proceed the installation process, they can frame their administrative functions by specifying the following constraints. * MySQL Root User * MySQL Root Pass * MySQL New Admin User * MySQL New Admin Pass"
+msgstr ""
+
+#: ../../mysqladmin.rst:76
+# a27fd320f9144df997200181614c53a9
+msgid "If the user wish to process installation of mysql admins in a remote system they can specify:"
+msgstr ""
+
+#: ../../mysqladmin.rst:78
+# 5e07e039e55247deabadd813d1700ff3
+msgid "MySQL Host."
+msgstr ""
+
+#: ../../mysqladmin.rst:80
+# 4e7e65a99a95412fa67fa958fef1cff0
+msgid "The following screenshot gives you an pictorial representation about the process of installation as described above."
+msgstr ""
+
+#: ../../mysqladmin.rst:123
+# aa1fc278fe2a469fb31cc48f79171ab0
+msgid "Benefits"
+msgstr ""
+
+#: ../../mysqladmin.rst:125
+# 6dd14455824a440287ba9ed84fd515ab
+msgid "In case of mysql admins is already installed in the users machine, then an message will be appearing to inform the users as it is already installed."
+msgstr ""
+
+#: ../../mysqladmin.rst:126
+# ac276325bc8645d59652dba482e44997
+msgid "By using this module the administrators can manage their administrative actions as per the requirements."
+msgstr ""
+
+#: ../../mysqladmin.rst:127
+# bbd6b3219fb9447bba27bb82ded5c010
+msgid "They can perform the installation process even in a remote system."
+msgstr ""
+
+#: ../../mysqladmin.rst:128
+# 3fb705518f01473bb2d189e2920e3990
+msgid "Without using the root users, the users can install the mysql admins."
+msgstr ""
+

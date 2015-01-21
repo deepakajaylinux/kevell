@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../parrallax.rst:3
+# e4405af2f22c4753a3386a1f523870fb
+msgid "Parallax"
+msgstr ""
+
+#: ../../parrallax.rst:6
+# 9f3c00830f3d4710b11285d9058514ba
+msgid "Synopsis"
+msgstr ""
+
+#: ../../parrallax.rst:8
+# d3d6b122f1c545dbb71d3817e79dcd86
+msgid "The parallax promotes the multitasking functions in the users machine. The parameters to define the installation and help are not case sensitive, while compared to others. It is easier to define the multi tasking function either at the time of installation or at the time of running the installation process."
+msgstr ""
+
+#: ../../parrallax.rst:11
+# 00ffb0ace0d04b21b97f7f5d3d6506bc
+msgid "Help Command"
+msgstr ""
+
+#: ../../parrallax.rst:13
+# 04797cc4bcdd4cb8add2387ce12bd408
+msgid "The help command leads the user in working with this parallax. It also specifies the command used for installing the parallax and also the syntax for two types of declaring installation. The help command also list out the alternative parameters that can be used. The command used for help option under the parallax is given below."
+msgstr ""
+
+#: ../../parrallax.rst:19
+# 24d4c39f2f12424f86adb9dc2fab18d0
+msgid "The display of results after the input of help command is represented in the screenshot below."
+msgstr ""
+
+#: ../../parrallax.rst:48
+# b0aed31f28024918bb10958b97c147c2
+msgid "Installation"
+msgstr ""
+
+#: ../../parrallax.rst:50
+# 5d144a4b01c84240b2d42e7dcdf489b8
+msgid "It is easier to go with parallax for installing as installation can be defined in two different ways as per the users requirements. Those two ways are defined as below:"
+msgstr ""
+
+#: ../../parrallax.rst:52
+# 0ab5cacfb83449ee8328ddad589554d9
+msgid "By mentioning the types of multi tasking that are required while defining the installation command."
+msgstr ""
+
+#: ../../parrallax.rst:53
+# e228a203c5f74d74a175c86520cf5e54
+msgid "Or , by mentioning the types of tasks while running(Run-time) installation."
+msgstr ""
+
+#: ../../parrallax.rst:55
+# 5639da7e89aa4fff920bcf2f3393dd81
+msgid "The command used for specifying the multi-tasks at the time of declaring installation command is shown below:"
+msgstr ""
+
+#: ../../parrallax.rst:61
+# 1d65f865b0224866b1be433b9ff836b1
+msgid "After mentioning this command, the parallax executes both of the tasks as specified above in command-1 and command-2. The two tasks are performed parallel and result are displayed. The screen shot attached below is an very good example for type of declaration defined above."
+msgstr ""
+
+#: ../../parrallax.rst:98
+# 8f9caa4690a5465395621bdf42b07ab5
+msgid "The command used for declaring the multi tasks at run-time is shown below:"
+msgstr ""
+
+#: ../../parrallax.rst:104
+# 80a211da37bc4a04bf9f6fe1a8b7dcf9
+msgid "After inputting the command above the following process occurs:"
+msgstr ""
+
+#: ../../parrallax.rst:110
+# 4c5fba05736b42a8b2e1cde0f4461b54
+msgid "Paramaters"
+msgstr ""
+
+#: ../../parrallax.rst:110
+# 974d4e505e274ec3b6f982073e74f0ac
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../parrallax.rst:110
+# 1445031ab44d46a99d5ccbc875d5e076
+msgid "Options"
+msgstr ""
+
+#: ../../parrallax.rst:110
+# 6014817391744920a2ca7120bd8013f0
+msgid "comments"
+msgstr ""
+
+#: ../../parrallax.rst:112
+#: ../../parrallax.rst:117
+# 8070123bfc9f48d4b15fc1529c67095a
+# 8b2aabf010e24c6ba83b70d40f2b3ea8
+msgid "Run Commands in Parallel? (Y/N)"
+msgstr ""
+
+#: ../../parrallax.rst:112
+#: ../../parrallax.rst:117
+# 363fec86bba74cae8a8c03856269afff
+# 38e6973bd78249639fd25da73db70ed9
+msgid "In Spite of parallax, the following alternatives can also be used: parallax, Parallax"
+msgstr ""
+
+#: ../../parrallax.rst:113
+# 4179d96f42664e82b2c96549a5e73add
+msgid "Y(yes)"
+msgstr ""
+
+#: ../../parrallax.rst:112
+# 0e2b453f576041b8828474906d2b10d4
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../parrallax.rst:118
+# 5d155d2b03e84bcaa2f26485064815a2
+msgid "N(No)"
+msgstr ""
+
+#: ../../parrallax.rst:117
+# ea55601d9de9415682fdbfad064ae340
+msgid "If the user wish to Quit the installation process they can input as N."
+msgstr ""
+
+#: ../../parrallax.rst:123
+# 00e21bed100c42c288f1d4ea2d66e39a
+msgid "If the user wish to proceed installation, the user can specify the multiple tasks as per their requirements. After completion of specifying the multiple tasks, if the users wish to stop they can stop by simply entering none."
+msgstr ""
+
+#: ../../parrallax.rst:125
+# c4e78c011ede4f2c8d90d0acc0ac6b80
+msgid "Finally, the results of completed tasks along with its status are defined at the end. The following screen shots can you an graphical representation regarding the above mentioned process."
+msgstr ""
+
+#: ../../parrallax.rst:171
+# 945fae5c9a16459c9af337aa4c069ef4
+msgid "Benefits"
+msgstr ""
+
+#: ../../parrallax.rst:173
+# 6d6946f4a253446b95acef00bf450538
+msgid "The user can define the parallel tasks either in run-time or in an pre-defined way as per their requirements."
+msgstr ""
+
+#: ../../parrallax.rst:174
+# 6fa52fef95094dc8b557e8fa0ed63fd7
+msgid "Finally, after completion of multi-tasks the results and status of the tasks completed are clearly reported."
+msgstr ""
+
+#: ../../parrallax.rst:175
+# 6dbfd767455b4d829153feb3e0766b12
+msgid "The syntax used for declaring is not case-sensitive while comparing to others which is an added advantage."
+msgstr ""
+
+#: ../../parrallax.rst:176
+# a0eac93b7e0d45f3a458f3f975ba5531
+msgid "It is well-to-do in both cent Os and as well as case sensitive."
+msgstr ""
+

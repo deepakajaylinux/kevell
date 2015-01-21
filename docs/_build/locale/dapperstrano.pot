@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../dapperstrano.rst:3
+# 62bc554177c34452afd57efb51280cd0
+msgid "Dapperstrano"
+msgstr ""
+
+#: ../../dapperstrano.rst:6
+# cb88b711cfd94a0db946e28b26b21408
+msgid "SYNOPSIS"
+msgstr ""
+
+#: ../../dapperstrano.rst:8
+# f8af465b93f34ee2afbbb1c05fc54d90
+msgid "This module supports to install under Cleopatra. It can install in two ways. They are install and Ensure. It can overwrite the module in case of already existing in the system. It is convenient to work with Ubuntu and cent OS.  Let’s see how to install dapperstarano."
+msgstr ""
+
+#: ../../dapperstrano.rst:11
+# f3795674fa4e476db23d17a4d2dd6fa7
+msgid "HELP COMMAND"
+msgstr ""
+
+#: ../../dapperstrano.rst:13
+# 71ddc57dcf3a4c14bb4eaa09248d1cd0
+msgid "It is time consuming because it won’t check directory link from web. Easy to Install. Suitable for all type of user. The user can indicate the path for program data directory and Program Executor directory."
+msgstr ""
+
+#: ../../dapperstrano.rst:16
+#: ../../dapperstrano.rst:40
+# 6c3fcd51fd78492e95f82fabfc6ec6a9
+# 1ecdf83e8fbf45008c7d8d9823dde348
+msgid "Installation"
+msgstr ""
+
+#: ../../dapperstrano.rst:17
+# e08b9ecbecca4d2d972722302c83d455
+msgid "It is a manifest process to install dapperstarano module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../dapperstrano.rst:23
+# 45df3c4fe4b1442a96d0e0290781aa44
+msgid "After vitalize the command it will catechize input. The user input as yes automatically it will install dapperstrano without checking from the directory link from the web."
+msgstr ""
+
+#: ../../dapperstrano.rst:27
+# cf3d87eb7c3d443eab12900e4039d5b7
+msgid "Additional features:"
+msgstr ""
+
+#: ../../dapperstrano.rst:30
+# e268bcf2383f4c2bbacd4a2f137151bd
+msgid "The following screen shot gives envision to your dreams."
+msgstr ""
+
+#: ../../dapperstrano.rst:34
+# 5f2250a45d6a46408ad76a9e7c8730b1
+msgid "Ensure"
+msgstr ""
+
+#: ../../dapperstrano.rst:36
+# 380db6f2cc8944229ac772e2a2e5755b
+msgid "Benefits"
+msgstr ""
+
+#: ../../dapperstrano.rst:37
+# 522d2d1281f3493784ed7d6cafa8658e
+msgid "Ensure never scrutiny the version while installing. Latest update is possible with ensure. It won’t overwrite the existing one. Indicate the message as already installed So, user can be alert in changing the folder or directory."
+msgstr ""
+
+#: ../../dapperstrano.rst:46
+# d7b3fa28083e4e279af65ce79d1e92a1
+msgid "Then automatically install dapperstrano ensure. It won’t check the version of module.  The following screen shot explains about ensure."
+msgstr ""
+
+#: ../../dapperstrano.rst:49
+# 1d50d79cc3424dd7bf8baad0aeae5ec1
+msgid "If dapperstrano already installed in the system, it shows already installed. The following screen shot visualize it."
+msgstr ""
+

@@ -1,0 +1,143 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../ubuntucompiler.rst:3
+# 0d175aa008724e48b8676e0bc6001bc0
+msgid "Ubuntu Compiler"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:6
+# d1b8babe2f9545cda8389d426582a2f1
+msgid "Synopsis"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:7
+# 6069daf99d5747b6b5e760e11fddabb4
+msgid "This module revitalize c program. Ubuntu and other Linux distributions have extensive package repositories to save the user from the trouble of compiling. With just a single command, you can build from source like a pro. It is comfort with Ubuntu and centOS."
+msgstr ""
+
+#: ../../ubuntucompiler.rst:10
+# b7702f958c30465eaca10d2dae8940f9
+msgid "Help command"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:12
+# 52f0bf4f54544c839565e09a20bf230d
+msgid "This help command guide the user about Ubuntu compiler. It is less time consuming because it can installed automatically. Suitable for C program."
+msgstr ""
+
+#: ../../ubuntucompiler.rst:18
+# 1fb3cb3f9ac44c08ba7795264c4de4cc
+msgid "The following help command will assist the user for installation."
+msgstr ""
+
+#: ../../ubuntucompiler.rst:39
+# d1cb4b423b7448f7a9182f91d0b00c57
+msgid "Installation"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:41
+# a35941efa113480b9abc39e7adb4a635
+msgid "This is a noticeable process to install Ubuntu compiler module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:47
+# 716076bdb1c040f69488b20bd45b563d
+msgid "After giving the command, the Ubuntu compiler will be installed with new updates."
+msgstr ""
+
+#: ../../ubuntucompiler.rst:49
+# bbb1a8999c5b47a1b4877732b00f1eb6
+msgid "If the user input as N the following screen will come."
+msgstr ""
+
+#: ../../ubuntucompiler.rst:69
+# c4b6df6137114e14bf647f10fcd5e6b8
+msgid "option"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:74
+# 29aff890fedb43e6bebe3dc602bcee68
+msgid "Parameters"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:74
+# 70f97c38f60f4515a56a02ecfefedb9c
+msgid "syntax"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:74
+# 0c279dfd12224b4dbabaf4414fd2a326
+msgid "Comment"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:76
+# f9c4016df22c47149a1377ab39d5eb2f
+msgid "Install Ubuntu compiler? Y/N"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:76
+# 8b4558c6a5c4421f9f792fc0c3b8f243
+msgid "Yes"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:76
+# a20c07a9f86b4b65abfe5955587aa335
+msgid "Installed successfully"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:78
+# 1c19351247e945beb50ef1affe738649
+msgid "stop"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:78
+# ce9af6ddfd4f4244824517f91a60b0f5
+msgid "No"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:78
+# a1cda17f72cb457ca017c083a4405f4c
+msgid "Exit the screen|"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:82
+# eedf8ca2bb6741178fc128a4feb0d709
+msgid "Benefits"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:84
+# 00018fc3433546abbc769b6316ee4577
+msgid "Faster boot"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:85
+# 63d95001dce54c23b0f4a13ae5547f18
+msgid "Better security"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:86
+# 8abb1b5fb11b4858a1dc049b9f0a78bf
+msgid "Changing the kernel to pre-empt while compilation"
+msgstr ""
+
+#: ../../ubuntucompiler.rst:87
+# 4c1f295063444d52bec6ba9758d5ae2c
+msgid "Suitable for C program"
+msgstr ""
+

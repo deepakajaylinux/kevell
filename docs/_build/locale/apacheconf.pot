@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../apacheconf.rst:2
+# eb43441757a64e5883759e734f3491d7
+msgid "ApacheConf"
+msgstr ""
+
+#: ../../apacheconf.rst:5
+# 1130b8c67e354680bde67a3b90c17c5d
+msgid "Synopsis"
+msgstr ""
+
+#: ../../apacheconf.rst:7
+# 40b827d417594de7bc84541f445dac34
+msgid "This module assists in managing and installing the Apache configuration. It specifies the configuration of your environment. It is well-to-do in ubuntu and as well as in Cent OS."
+msgstr ""
+
+#: ../../apacheconf.rst:11
+# 38181f8aa2194019bfbe4e447f19bae6
+msgid "Help command"
+msgstr ""
+
+#: ../../apacheconf.rst:13
+# feca3f4b884e46e1b956bb39dc4b6139
+msgid "The help command describes about the purpose and the commands available under this modules. It also explains the command to install the particular module. The screen shot as shown below, visually represent the usage of the help command under this module."
+msgstr ""
+
+#: ../../apacheconf.rst:39
+# aa732392b6e646059aefdd3fcd6cff5c
+msgid "Installation"
+msgstr ""
+
+#: ../../apacheconf.rst:41
+# bf16901283e340168a9badf9c60421d0
+msgid "It is easier to install this particular tool under Cleopatra by simply using the command given below,"
+msgstr ""
+
+#: ../../apacheconf.rst:47
+# 9cff799535534c808fdf4bf51379d117
+msgid "After giving the command above, the tool will ask as"
+msgstr ""
+
+#: ../../apacheconf.rst:53
+# 2854f9b3878a4465947a60b66dd9c603
+msgid "if you give an input as Y, the module will get installed successfully. It will also throw some commands to specify the non-default values for LockFile, PidFile, Timeout, KeepAlive, MaxKeepAliveRequest, KeepAliveTimeout. If the user gives input as Y(Yes) it will automatically fix the default value. If the user gives input as N(No) then it will enquire about the values from the user."
+msgstr ""
+
+#: ../../apacheconf.rst:56
+# c47c6d973f134efaa40cc37199cf8907
+msgid "The screen shot given below explains visually about the steps and commands involves in installation."
+msgstr ""
+
+#: ../../apacheconf.rst:96
+# 0cf6fe9bd9d646fb9185cc66bf7161b3
+msgid "Options"
+msgstr ""
+
+#: ../../apacheconf.rst:101
+# 10207fe400ca43e8903ffac271bcbd60
+msgid "Parameters"
+msgstr ""
+
+#: ../../apacheconf.rst:101
+# 0774db8111574fba91a792943236a039
+msgid "Required"
+msgstr ""
+
+#: ../../apacheconf.rst:101
+# 660eaa6d6f754610a56cbf3197183004
+msgid "Comment"
+msgstr ""
+
+#: ../../apacheconf.rst:103
+# 2a68a6e18d5e44dc98b5e3855304fae4
+msgid "Install"
+msgstr ""
+
+#: ../../apacheconf.rst:103
+#: ../../apacheconf.rst:107
+# 3020ec30c7c34fc8ac98048e2a362c6d
+# deaa4b3910cc472cb7a87c4d64b2c3ca
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../apacheconf.rst:103
+# 95c99bd91a4a475ca5ca5ed54418472d
+msgid "It will install the apacheconf under Cleopatra"
+msgstr ""
+
+#: ../../apacheconf.rst:107
+#: ../../apacheconf.rst:112
+# d8012076b6174826ae1a197d2a64acb7
+# 045ed7b7374a48ee9b47157e8ee72219
+msgid "Install Apache conf? (Y/N)"
+msgstr ""
+
+#: ../../apacheconf.rst:107
+# 0b3784a4540f4f40afdbc40395dd865e
+msgid "If the user gives input as yes, it will install the module."
+msgstr ""
+
+#: ../../apacheconf.rst:112
+# 9d3b9da2b7dc4ad1ba2f1d475499a480
+msgid "N(NO)"
+msgstr ""
+
+#: ../../apacheconf.rst:112
+# 9092849939f84f37b0fb737f1388eba2
+msgid "If the user gives input as no, it will get exit.|"
+msgstr ""
+
+#: ../../apacheconf.rst:119
+# fac61bbfb9c744fea7b16418a04c61a7
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../apacheconf.rst:121
+# be6d4ee6e2cb47ea9cc2fe60a731a5d3
+msgid "The module assists the end user in installing and managing the configuration of Apache. While installing the Apache tool, the end user can design and manage the configuration as per their requirement using this module. If it founds the configuration already exists it will overwrite the existing one."
+msgstr ""
+

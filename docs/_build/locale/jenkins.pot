@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../jenkins.rst:3
+# 2d9c783acb024c75a1a188c3f7b63f94
+msgid "Jenkins"
+msgstr ""
+
+#: ../../jenkins.rst:6
+# 72bdde7e261340099081750382bc6e89
+msgid "Synopsis"
+msgstr ""
+
+#: ../../jenkins.rst:8
+# 5ac44fc0eb9d434993c19c2751904591
+msgid "Jenkins is popular to build server. Jenkins is an open source continuous integration tool written in Java. Jenkins provides continuous integration services for software development. It is a server-based system running in a servlet container such as Apache Tomcat. Jenkins’ core functionality and flexibility allow it to fit in a variety of environments and can help streamline the development process for all stakeholders involved"
+msgstr ""
+
+#: ../../jenkins.rst:12
+# 3549b4d504d341fb921e8cbc2411454f
+msgid "Help Command"
+msgstr ""
+
+#: ../../jenkins.rst:14
+# a1329283e9284ce08626f2f99b669626
+msgid "This command helps to determine the usage of Jenkins module. The user will come to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../jenkins.rst:39
+# 5acb93afa9934713b61ba5f6546adee9
+msgid "Installation"
+msgstr ""
+
+#: ../../jenkins.rst:41
+# 1a1b16989b5640caa49745bd011e005b
+msgid "If the user needs to install Jenkins module in machine, the below given command will execute the process of installation."
+msgstr ""
+
+#: ../../jenkins.rst:98
+# 99bdbe75a45943409bd2dd10a4dff5ee
+msgid "Options"
+msgstr ""
+
+#: ../../jenkins.rst:104
+# 95257132e44b428598e4702c1305b7c4
+msgid "Parameters"
+msgstr ""
+
+#: ../../jenkins.rst:104
+# f97263b3641b425a8b83c0b4d7fdef68
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../jenkins.rst:104
+# 8fc2162487dc4b58abd982d7b51348b1
+msgid "Option"
+msgstr ""
+
+#: ../../jenkins.rst:104
+# a307244627fd4a8a979ae44f6faafa3f
+msgid "Comments"
+msgstr ""
+
+#: ../../jenkins.rst:106
+#: ../../jenkins.rst:109
+# 979b022aa76c405188cdbb3ace9b9e1f
+# 60bba257eba8401484cd57d8298e86c6
+msgid "cleopatra  Jenkins Install"
+msgstr ""
+
+#: ../../jenkins.rst:106
+#: ../../jenkins.rst:109
+# e0a587346f4c4655aed3861fee44b8c5
+# 6bfb8db9ca344a1da22e8ba0d90baf1f
+msgid "Jenkins , jenkins"
+msgstr ""
+
+#: ../../jenkins.rst:106
+# 73c13257fbc14ff5813ab9e65997790f
+msgid "Y"
+msgstr ""
+
+#: ../../jenkins.rst:106
+# d7eabb210577441aa903a35aef468946
+msgid "Once the user provides the option, System starts installation process"
+msgstr ""
+
+#: ../../jenkins.rst:109
+# f80495e9ec47487a83fa707fa0c645f9
+msgid "N"
+msgstr ""
+
+#: ../../jenkins.rst:109
+# ace98108b9af40538733afb6aae69593
+msgid "Once the user provides the option, System stops installation process|"
+msgstr ""
+
+#: ../../jenkins.rst:115
+# c3299a0c58fe400bb0ce6187448e9af7
+msgid "Benefits"
+msgstr ""
+
+#: ../../jenkins.rst:117
+# 3152e34b02c0482f9d1f14da0966daa6
+msgid "Immediate bug detection"
+msgstr ""
+
+#: ../../jenkins.rst:118
+# a853313550fe46489aa8d8a622f7b3e1
+msgid "No integration step in the lifecycle"
+msgstr ""
+
+#: ../../jenkins.rst:119
+# c258bc20b5834f3ab3bb2191dcd5c9dc
+msgid "A deployable system at any given point"
+msgstr ""
+
+#: ../../jenkins.rst:120
+# ff2d909352ef40a1b376baf96b916f7c
+msgid "Record of evolution of the project"
+msgstr ""
+

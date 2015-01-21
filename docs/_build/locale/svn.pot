@@ -1,0 +1,288 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../svn.rst:3
+# 35e89fceffbc48608e7f4047d9741646
+msgid "SVN"
+msgstr ""
+
+#: ../../svn.rst:6
+# e1efa8072b8d4e42980a6f1cd27bbead
+msgid "Synopsis"
+msgstr ""
+
+#: ../../svn.rst:8
+# 02b81fde4a094718b8baded3ea7df688
+msgid "This module assists the users to install the latest version of SVN in Ubuntu. Apache Subversion (often abbreviated SVN, after the command name svn) is a software versioning and revision control system distributed as free software under the Apache License.[1] Developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. Its goal is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS). Let us see how this module facilitates in installing, uninstalling, ensuring the subversion in ubuntu."
+msgstr ""
+
+#: ../../svn.rst:11
+# ad96d2dead3247e4b59ac4f9ff7cb7d4
+msgid "Help Command"
+msgstr ""
+
+#: ../../svn.rst:13
+# 9b248d34fab24a1ebcec0cc6995b7fcc
+msgid "The help command guides the users regarding the purpose and as well as about the options that are included in the SVN. It lists out the alternative parameters of SVN. It also describes the syntax for install, uninstall, ensuring the SVN. The help command for SVN module is shown as below."
+msgstr ""
+
+#: ../../svn.rst:19
+# 7f19546326744686875d4e2eca1a5a5d
+msgid "The syntax for declaring the help command is not case sensitive which is an added advantage. The following screenshot visualize you about the help command under SVN."
+msgstr ""
+
+#: ../../svn.rst:51
+# 4b948827e474448cb850d5692e2718af
+msgid "Installation"
+msgstr ""
+
+#: ../../svn.rst:53
+# bb85e2e53660430d872078790e7d4800
+msgid "The command used for installing the SVN to the ubuntu is shown below."
+msgstr ""
+
+#: ../../svn.rst:59
+# d5fb65b088084eb4bb2d54c4d2043d78
+msgid "After inputting the command above, the following operations occurs as shown in tabular format."
+msgstr ""
+
+#: ../../svn.rst:64
+#: ../../svn.rst:154
+# 0cfa096b7afd4d02a264e4b67bd611be
+# 508ccea4928d49d1a34c8ca87f162b0e
+msgid "Parameters"
+msgstr ""
+
+#: ../../svn.rst:64
+#: ../../svn.rst:154
+# a75e15b7021b4d6ba9998045f9e91250
+# 228673af53604ad39ac6d2c9a701b8aa
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../svn.rst:64
+#: ../../svn.rst:154
+# c04ee7beb8bc406b8420ffd062fa1f5f
+# 44481bafca93406a93dc025324b571f0
+msgid "Option"
+msgstr ""
+
+#: ../../svn.rst:64
+#: ../../svn.rst:154
+# 4444cb5bdd994d31b67d794fc3e444da
+# d00c529611e4470c89711160ddf7c838
+msgid "Comments"
+msgstr ""
+
+#: ../../svn.rst:66
+#: ../../svn.rst:69
+# 9f039d77be1240689cb6c25e5d4552a7
+# 2a29e67d43ef41548b9272c532085ea4
+msgid "Install SVN? (Y/N)"
+msgstr ""
+
+#: ../../svn.rst:66
+#: ../../svn.rst:69
+#: ../../svn.rst:156
+#: ../../svn.rst:159
+# 1b67446762b944f192c1cb2bc02ce387
+# 801b0afd977c444a989a5b0a5ed14734
+# a16f920c5d0b484aa5c6fe4a7cbc2011
+# a4243667374142dd9c8b1405b4d4c4f8
+msgid "Instead of SVN, we can use svn also"
+msgstr ""
+
+#: ../../svn.rst:66
+#: ../../svn.rst:156
+# c4b0f047c7f34959a2d0864582693b07
+# a02683fcef534fe6a17c9c5476bc5bc7
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../svn.rst:66
+# 41a372a60d2844cfba71f3ffc4e8dd51
+msgid "If the user wish to proceed the installation process they can input as Y."
+msgstr ""
+
+#: ../../svn.rst:69
+#: ../../svn.rst:159
+# 8cc8f783ddc94ba1a93270d594b141ba
+# 811e823dbccb442896abb053943b6365
+msgid "N(No)"
+msgstr ""
+
+#: ../../svn.rst:69
+# 7e1dff2cbf9e4b17bcc7e70d5eecf115
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../svn.rst:74
+# 1267a5c0647340c09af43af1a8c269ec
+msgid "If the user proceeds the installation process, during execution of installation the following process occurs:"
+msgstr ""
+
+#: ../../svn.rst:76
+#: ../../svn.rst:169
+# db1d38dfa1d74067aaeda677c3ed691d
+# 4e36313ea221415b988b416e26dab4f1
+msgid "Reads package lists."
+msgstr ""
+
+#: ../../svn.rst:77
+#: ../../svn.rst:170
+# c2df185f023f4592bf14ffd5d2ed9798
+# b803d887c7ca4552806468f356da3b89
+msgid "builds dependency tree."
+msgstr ""
+
+#: ../../svn.rst:78
+#: ../../svn.rst:171
+# da18d5a4cbf5475689f627d098727a79
+# 22a2e3288f5b42c7b139635095959496
+msgid "reads state information."
+msgstr ""
+
+#: ../../svn.rst:79
+# 65eeaea71b68455e80ef16a8f387fecb
+msgid "lists out extra packages installed."
+msgstr ""
+
+#: ../../svn.rst:80
+# ed3ed7ebfea14e9280d55298ef792f9e
+msgid "lists out new packages installed."
+msgstr ""
+
+#: ../../svn.rst:81
+#: ../../svn.rst:174
+# 40feafb5910644a4bf26a8824e54a573
+# 4e9330bc181c4dd48c8ff0ba42049806
+msgid "number of files upgraded, newly installed, removed, not upgraded."
+msgstr ""
+
+#: ../../svn.rst:82
+# 25c316f3414a4e04bdf88e8e7f216837
+msgid "Finally, the installation of SVN gets completed. The following screenshot depicts you about the process of installing SVN in ubuntu."
+msgstr ""
+
+#: ../../svn.rst:140
+# 3875a49abbce4ed8aac10840334ad0fc
+msgid "Un install"
+msgstr ""
+
+#: ../../svn.rst:142
+# 28c1ae8c229b4049968c0c5de9aefab0
+msgid "The command used for un installing the SVN to the ubuntu is shown below."
+msgstr ""
+
+#: ../../svn.rst:148
+# 343a505f05384b11b2f1117901e602ed
+msgid "After inputting the command above, the following operations occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../svn.rst:156
+#: ../../svn.rst:159
+# 9e0b700e7d224db0a5b3d73d35669e94
+# a04ed22a0a4e406b839c5d017d6805f9
+msgid "Uninstall SVN? (Y/N)"
+msgstr ""
+
+#: ../../svn.rst:156
+# e0e830972a6a4568be633c504237940f
+msgid "If the user wish to proceed the un-installation process they can input as Y."
+msgstr ""
+
+#: ../../svn.rst:159
+# 4020f5f1788843bc976b428bfb085759
+msgid "If the user wish to quit the un-installation process they can input as N.|"
+msgstr ""
+
+#: ../../svn.rst:167
+# 895b13b3c72e4944946f0b7b07bf6662
+msgid "If the user proceeds the un installation process, during execution of un installation the following process occurs:"
+msgstr ""
+
+#: ../../svn.rst:172
+# b640ec78514345bb99168ef0cb044709
+msgid "lists out packages that are automatically installed."
+msgstr ""
+
+#: ../../svn.rst:173
+# cac24569f81e47999bf73e577210fa77
+msgid "lists out packages that are removed."
+msgstr ""
+
+#: ../../svn.rst:176
+# cbfede3f580c4317bc9ceb7fdb54979e
+msgid "Finally, the un installation of SVN gets completed. The following screenshot depicts you about the process of un installing SVN in ubuntu."
+msgstr ""
+
+#: ../../svn.rst:217
+# 22782a64269d4d1d9903dfa0e55e43a0
+msgid "Ensure"
+msgstr ""
+
+#: ../../svn.rst:219
+# bc6bde064427479481bfb9ea26b84bc4
+msgid "The command used for ensuring SVN is shown below."
+msgstr ""
+
+#: ../../svn.rst:225
+# ea78f5ff6327482d9cf06186f45e6568
+msgid "The ensure process performs the following functions:"
+msgstr ""
+
+#: ../../svn.rst:227
+# d3d51081847a451ba2b053042e0ebee1
+msgid "It will ensure whether the module is installed or not, and does not checks the version."
+msgstr ""
+
+#: ../../svn.rst:228
+# 16a86c0cebe14d25b3ebc9cbce389a89
+msgid "If the module is already installed it will report as it is already existed."
+msgstr ""
+
+#: ../../svn.rst:229
+# 62946c93a02b4ce792956576a3790ee0
+msgid "If the module is not available in the user machine, then it will proceed installation."
+msgstr ""
+
+#: ../../svn.rst:231
+# 06975979d5344fd181bb1820c54db0dd
+msgid "The following screenshots depicts the process of ensuring."
+msgstr ""
+
+#: ../../svn.rst:269
+# ca0125f2662f44f6810deda727a82218
+msgid "Benefits"
+msgstr ""
+
+#: ../../svn.rst:271
+# 6bef292ea3274307985bacc585c9b7be
+msgid "The parameters used in declaring the help and installations, uninstall, ensure are not case sensitive, which is added advantage while compared to others."
+msgstr ""
+
+#: ../../svn.rst:272
+# 43cc335b6fda497e83985aba7d5c48bb
+msgid "The user can ensure about the availability before proceeding the installation."
+msgstr ""
+
+#: ../../svn.rst:273
+# 2051190c9df2437e8760ac8ef40372bb
+msgid "It will not overwrite the packages, hence it is less time-consuming."
+msgstr ""
+

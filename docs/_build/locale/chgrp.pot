@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../chgrp.rst:2
+#: ../../chgrp.rst:40
+# 4f725f98dd7f477ab7e5f6b7a20a8ca5
+# ae38ea8a8f8a439ba34570889cdd1892
+msgid "Chgrp"
+msgstr ""
+
+#: ../../chgrp.rst:5
+# b611193d196d42dcbf0da5c683043f6c
+msgid "Nut shell"
+msgstr ""
+
+#: ../../chgrp.rst:7
+# 6a08651b38e744d295caa2acc11dc891
+msgid "This module confess many owners. Linux can accept many groups."
+msgstr ""
+
+#: ../../chgrp.rst:10
+# 9b0192ef2b8046a381d5d3f95e143952
+msgid "How to use"
+msgstr ""
+
+#: ../../chgrp.rst:12
+# fccd7a46eb164eebb13b2c264d5ab3d8
+msgid "It is an obvious process to change group module under Cleopatra by just using the command given below,"
+msgstr ""
+
+#: ../../chgrp.rst:18
+# 6889474865be465ca0cb823977a00cb1
+msgid "After bounce the command it will change the group."
+msgstr ""
+
+#: ../../chgrp.rst:22
+# 5ec3c23ffc984bb0bd7821f5703fbfb5
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../chgrp.rst:24
+# 26f9be71641b4c1da3791db61102ad53
+msgid "Change group can be used to change the group permission. It simplified the process. It is suitable for all types of user. We can give the command anywhere any time. Easy to operate."
+msgstr ""
+
+#: ../../chgrp.rst:29
+# 1677a2bb9e584858ad6a1c8e758f0d89
+msgid "Options"
+msgstr ""
+
+#: ../../chgrp.rst:34
+# 34ed5145920e46e1860d0bb3f31eba8b
+msgid "Parameters"
+msgstr ""
+
+#: ../../chgrp.rst:34
+# 945b0e53c7d3411db27362f7612d623b
+msgid "Requirement"
+msgstr ""
+
+#: ../../chgrp.rst:34
+# e6fe5e535f664796aec23b20479c37d8
+msgid "Option"
+msgstr ""
+
+#: ../../chgrp.rst:34
+# 731f6d991e3e4d0dbbc1fa5d7eca6b16
+msgid "Comments"
+msgstr ""
+
+#: ../../chgrp.rst:36
+#: ../../chgrp.rst:42
+# 3bfe1427d7c44708afbdce653d6ba6ff
+# 601c53a8b9ca4de3866f89f3f8aae3e8
+msgid "chgrp"
+msgstr ""
+
+#: ../../chgrp.rst:36
+#: ../../chgrp.rst:38
+#: ../../chgrp.rst:42
+# 85de4efa111b4cef83b5cbf526df5259
+# 519bb5946b854a0494a34a305e422647
+# a728472b92214186a26404bd1acc2c79
+msgid "Yes"
+msgstr ""
+
+#: ../../chgrp.rst:36
+# 15ae19ca434448828e012129f367b043
+msgid "It will  the change group module under Cleopatra"
+msgstr ""
+
+#: ../../chgrp.rst:38
+# 9dcb8a7647fa4c50954d0d8017410967
+msgid "Path"
+msgstr ""
+
+#: ../../chgrp.rst:38
+# d15413aec56c4cf096a6b3733a35c789
+msgid "Specify the path"
+msgstr ""
+
+#: ../../chgrp.rst:40
+#: ../../chgrp.rst:42
+# e23a0c57a9ce44b0ae1142cdb054ea9b
+# 0f7c178106a0410885fb3da32110eb74
+msgid "group"
+msgstr ""
+
+#: ../../chgrp.rst:40
+# 641773c3c03f424584b8814422d6b857
+msgid "No"
+msgstr ""
+
+#: ../../chgrp.rst:40
+# 7fc8555842414eca8500b397011e431a
+msgid "While changing user can specify the path."
+msgstr ""
+
+#: ../../chgrp.rst:42
+# 47ae59f6467f40898eee3074faed9714
+msgid "Facilitate to change the new group name|"
+msgstr ""
+
+#: ../../chgrp.rst:46
+# c167aacf447a4cbebaa1dd84fcb08aeb
+msgid "Help command"
+msgstr ""
+
+#: ../../chgrp.rst:47
+# 8e446e0dae6c474fab99c1e641f92710
+msgid "The help command interprets about the scope and the commands available under this modules. It also explains the command to change the group. The following screen shot visualize it translucently."
+msgstr ""
+

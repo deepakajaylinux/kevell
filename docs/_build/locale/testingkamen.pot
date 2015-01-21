@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../testingkamen.rst:3
+# e34f4f391c2b4e178cf065881f8c020f
+msgid "Testingkamen module"
+msgstr ""
+
+#: ../../testingkamen.rst:6
+# 2a484fcf324c494594c9a03cc296b189
+msgid "Synopsis"
+msgstr ""
+
+#: ../../testingkamen.rst:8
+# ffaa983fad13452395013eb196169232
+msgid "Testingkamen module is for handling test suite configuration and execution using a common set of rules across a range of tools and technologies. It can be used to generate starter test suites for your applications, and automated test execution scripts within minutes. This module aims at installing the latest version of Testingkamen tool."
+msgstr ""
+
+#: ../../testingkamen.rst:12
+# 55d13f101a224cf5a29adeb9a064c148
+msgid "Help Command"
+msgstr ""
+
+#: ../../testingkamen.rst:14
+# 52c1b8e55ec04cb6a545f5c3f3a43b85
+msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
+msgstr ""
+
+#: ../../testingkamen.rst:21
+#: ../../testingkamen.rst:52
+# ab45ebb69e9743319f2e2a277eff6b44
+# 67401ae303a04ca6849f1ce0c8e9c935
+msgid "The snapshot below gives you a pictorial representation of help command."
+msgstr ""
+
+#: ../../testingkamen.rst:44
+# 94ca323e258540989125a02a7bc2ea87
+msgid "Installation"
+msgstr ""
+
+#: ../../testingkamen.rst:46
+# 01eb24ed30704aed9ad4b6a197352a3f
+msgid "The preferred way to install any of the pharaoh apps is through cleopatra. If you already installed cleopatra then you can install testingkamen by using the following command,"
+msgstr ""
+
+#: ../../testingkamen.rst:90
+# 41561daecc6e487080acb26d4d7a441f
+msgid "Options"
+msgstr ""
+
+#: ../../testingkamen.rst:96
+# 7c842306019e446c95887f42d4426ffa
+msgid "Paramaters"
+msgstr ""
+
+#: ../../testingkamen.rst:96
+# 72012aeb5b8946189bb789d930512c0d
+msgid "Required"
+msgstr ""
+
+#: ../../testingkamen.rst:96
+# a9f76cce31aa44d588d2604771cb73c4
+msgid "Comments"
+msgstr ""
+
+#: ../../testingkamen.rst:98
+# ff5595ea230a40c58a25f06a3c854902
+msgid "cleopatra Testingkamen install"
+msgstr ""
+
+#: ../../testingkamen.rst:98
+# 374abbeb18814be4833b9e544e0bd251
+msgid "Yes"
+msgstr ""
+
+#: ../../testingkamen.rst:98
+# 8bcb6672b196480b9ee88b76736ca1b1
+msgid "This command will install the Testingkamen module"
+msgstr ""
+
+#: ../../testingkamen.rst:100
+#: ../../testingkamen.rst:108
+# 2a894ff5ab884f32884a335176b47935
+# f732bd7b6c4941308573664e15391807
+msgid "Install Testingkamen ( Y/N)"
+msgstr ""
+
+#: ../../testingkamen.rst:100
+# fa782161720a402a9d041a7638624b7e
+msgid "Y"
+msgstr ""
+
+#: ../../testingkamen.rst:100
+# d4c2fadddb944d7ca51ffd2ad32deaff
+msgid "If the user inputs Y, this module checks for previously installed version, if exits it was updated to latest version or else it installs the fresh package. To save the program files to the  specific path user must enter key ‘/’ button or else it uses the default path as shown in figure."
+msgstr ""
+
+#: ../../testingkamen.rst:108
+# ad4b87352a3f4a94aeccce747d2b4ebd
+msgid "N"
+msgstr ""
+
+#: ../../testingkamen.rst:108
+# 08386792b0174588ad7846f17187c6ca
+msgid "If the user inputs N, the installation was aborted."
+msgstr ""
+
+#: ../../testingkamen.rst:113
+# 0f8d510e8b5b46f0ab687855be1089df
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../testingkamen.rst:115
+# 34440d8e73144b699bcee07e0e2119eb
+msgid "Easy use of access and installation"
+msgstr ""
+
+#: ../../testingkamen.rst:116
+# fbe66d24e0764eaca0a9d18321a7e37f
+msgid "Coding is case insensitive"
+msgstr ""
+
+#: ../../testingkamen.rst:117
+# 23564165260141f5878146e0f6606151
+msgid "Full source is available and there are no license costs."
+msgstr ""
+

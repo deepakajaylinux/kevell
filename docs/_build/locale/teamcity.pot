@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../teamcity.rst:3
+# ec6a0f047a8d42789bc3745088e5e1b9
+msgid "Teamcity module"
+msgstr ""
+
+#: ../../teamcity.rst:6
+# cb63d5f356ec46b2934a68a331436d0b
+msgid "Synopsis"
+msgstr ""
+
+#: ../../teamcity.rst:8
+# 5ea612a8c3874ea4b3250325fcdcc83d
+msgid "Teamcity is a Java-based build management and continuous integration server. This module aims to install the latest version of Teamcity server and its dependencies."
+msgstr ""
+
+#: ../../teamcity.rst:11
+# e379ad839ae3479d840e2d750b4a6abd
+msgid "Help Command"
+msgstr ""
+
+#: ../../teamcity.rst:13
+# 9dc31a82224c42578ee941bb2ca58db2
+msgid "The help command guides the user to provide what is necessary to accomplish the task. The command to make use of help under the terminal is given as follows,"
+msgstr ""
+
+#: ../../teamcity.rst:19
+# a8cde19a880141678a21f45dc0ef4a80
+msgid "The snapshot below gives you a pictorial representation of help command and it listed two parameters as Teamcity and teamcity. (Parameters are case insensitive)"
+msgstr ""
+
+#: ../../teamcity.rst:41
+# 3a7cf832ab444fa4b89524ddb2e6404d
+msgid "Installation"
+msgstr ""
+
+#: ../../teamcity.rst:43
+# 2367a7864c1b4aed9d6897719452504e
+msgid "The command used for installing Teamcity module is given below,"
+msgstr ""
+
+#: ../../teamcity.rst:50
+# 7244118bd4554a5e8920e883d5969c56
+msgid "The screenshot below explains how to install teamcity module."
+msgstr ""
+
+#: ../../teamcity.rst:87
+# 1b4a0d83646b4e54b7772d4812408560
+msgid "Options"
+msgstr ""
+
+#: ../../teamcity.rst:94
+# 01c05ba6df3f484cb7cf59ee98777c9f
+msgid "Parameters"
+msgstr ""
+
+#: ../../teamcity.rst:94
+# 12a5c4e9d497432bb59e6f4d0a18e016
+msgid "Required"
+msgstr ""
+
+#: ../../teamcity.rst:94
+# 2e4559b114654a12a296f7fffd03a90b
+msgid "Comments"
+msgstr ""
+
+#: ../../teamcity.rst:96
+# 56ee07960a5c4dd6bf5f31e7f978ce59
+msgid "cleopatra Teamcity  install"
+msgstr ""
+
+#: ../../teamcity.rst:96
+# 99a42f9670df4df28d0f378c8546f4b7
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../teamcity.rst:96
+# dfcca8b54abb49659b263f7a99c830b4
+msgid "This command will install Teamcity module"
+msgstr ""
+
+#: ../../teamcity.rst:101
+#: ../../teamcity.rst:110
+# cfa600ebe7a24d7e9da69e0d1afdb26f
+# 427867f8b526420a9d911358160fd01b
+msgid "Install Teamcity ( Y/N)"
+msgstr ""
+
+#: ../../teamcity.rst:102
+# b0f89a27188e4dbda20a865948806650
+msgid "Y"
+msgstr ""
+
+#: ../../teamcity.rst:101
+# 115c0f531f9f4da3b246a03c377c5ea4
+msgid "If the user inputs Y, this module checks for supporting requirements for Teamcity if exits it was updated to the new version or else it installs the fresh package with supporting requirements."
+msgstr ""
+
+#: ../../teamcity.rst:110
+# 583c187825e346d0b7582ee00f6a8a6a
+msgid "N"
+msgstr ""
+
+#: ../../teamcity.rst:110
+# ac718b653bba4673865777bdc468cc96
+msgid "If the user inputs N, the installation was aborted.|"
+msgstr ""
+
+#: ../../teamcity.rst:115
+# 74c8b668b6804a838ea59b70caf07aa9
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../teamcity.rst:117
+# 58c75580cb0c49d681c4db2d84cb123e
+msgid "Installs all supporting requirements to run teamcity server in an efficient manner"
+msgstr ""
+
+#: ../../teamcity.rst:118
+# 0c3d590ebc7b4394a81cb329e1a8e259
+msgid "Ease use of access and installation"
+msgstr ""
+
+#: ../../teamcity.rst:119
+# 5125f3829cbc4842a3ce4cf3ff07ed02
+msgid "Coding is case insensitive."
+msgstr ""
+

@@ -1,0 +1,116 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../chgrp.rst:2 ../../chgrp.rst:40
+msgid "Chgrp"
+msgstr ""
+
+#: ../../chgrp.rst:5
+msgid "Nut shell"
+msgstr ""
+
+#: ../../chgrp.rst:7
+msgid "This module confess many owners. Linux can accept many groups."
+msgstr ""
+
+#: ../../chgrp.rst:10
+msgid "How to use"
+msgstr ""
+
+#: ../../chgrp.rst:12
+msgid ""
+"It is an obvious process to change group module under Cleopatra by just "
+"using the command given below,"
+msgstr ""
+
+#: ../../chgrp.rst:18
+msgid "After bounce the command it will change the group."
+msgstr ""
+
+#: ../../chgrp.rst:22
+msgid "Benefits to the users"
+msgstr ""
+
+#: ../../chgrp.rst:24
+msgid ""
+"Change group can be used to change the group permission. It simplified the "
+"process. It is suitable for all types of user. We can give the command "
+"anywhere any time. Easy to operate."
+msgstr ""
+
+#: ../../chgrp.rst:29
+msgid "Options"
+msgstr ""
+
+#: ../../chgrp.rst:34
+msgid "Parameters"
+msgstr ""
+
+#: ../../chgrp.rst:34
+msgid "Requirement"
+msgstr ""
+
+#: ../../chgrp.rst:34
+msgid "Option"
+msgstr ""
+
+#: ../../chgrp.rst:34
+msgid "Comments"
+msgstr ""
+
+#: ../../chgrp.rst:36 ../../chgrp.rst:42
+msgid "chgrp"
+msgstr ""
+
+#: ../../chgrp.rst:36 ../../chgrp.rst:38 ../../chgrp.rst:42
+msgid "Yes"
+msgstr ""
+
+#: ../../chgrp.rst:36
+msgid "It will  the change group module under Cleopatra"
+msgstr ""
+
+#: ../../chgrp.rst:38
+msgid "Path"
+msgstr ""
+
+#: ../../chgrp.rst:38
+msgid "Specify the path"
+msgstr ""
+
+#: ../../chgrp.rst:40 ../../chgrp.rst:42
+msgid "group"
+msgstr ""
+
+#: ../../chgrp.rst:40
+msgid "No"
+msgstr ""
+
+#: ../../chgrp.rst:40
+msgid "While changing user can specify the path."
+msgstr ""
+
+#: ../../chgrp.rst:42
+msgid "Facilitate to change the new group name|"
+msgstr ""
+
+#: ../../chgrp.rst:46
+msgid "Help command"
+msgstr ""
+
+#: ../../chgrp.rst:47
+msgid ""
+"The help command interprets about the scope and the commands available under"
+" this modules. It also explains the command to change the group. The "
+"following screen shot visualize it translucently."
+msgstr ""

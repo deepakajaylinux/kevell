@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../systemdetection.rst:3
+#: ../../systemdetection.rst:97
+# 5f2c6ac499cf47be9658091e0f85c4e0
+# 02c59451b9664b25a06ebbec8172fce7
+msgid "System Detection"
+msgstr ""
+
+#: ../../systemdetection.rst:7
+# d481784effa0444097f1dd7122358048
+msgid "Synopsis"
+msgstr ""
+
+#: ../../systemdetection.rst:9
+# 2dd20d6862764937acf6f6a9e6148997
+msgid "This module aims at detecting the user’s machine and in hand provides them the necessary information to them regarding the users system. It also provides a facility to the users to configure their applications settings. The few examples for applications settings includes my sql admin user, Architecture, admin user, host, version, linux type, Distro. It is comfortable with Ubuntu and cent OS."
+msgstr ""
+
+#: ../../systemdetection.rst:12
+# 9847cff0749449f0a0424c5811a1e78a
+msgid "Help command"
+msgstr ""
+
+#: ../../systemdetection.rst:14
+# ad2fd323a0614ed38769707c23e73315
+msgid "The help command leads the users regarding the purpose and as well as about the options that are included in the System detection modules. The help command lists out the alternative parameters of System detection under Dapperstrano module. It also describes the syntax for detecting the user’s machine. The help command for System detection is shown below."
+msgstr ""
+
+#: ../../systemdetection.rst:20
+# e0797763d43b4b2080668fecd9d02fcf
+msgid "The syntax for the help command non case sensitive which adds an advantage for this module. The following screenshot visualize the user about the help command under system detection."
+msgstr ""
+
+#: ../../systemdetection.rst:44
+# 01b6308b5420473e91eb7411d370a43a
+msgid "Detect"
+msgstr ""
+
+#: ../../systemdetection.rst:46
+# 3a266945663446fab87a1858701744e9
+msgid "Detect used to detect the system settings. By using a single command the user can get all the information about the system application. The command used for system detection is given below."
+msgstr ""
+
+#: ../../systemdetection.rst:53
+# 7ec2d812ce9144bda5645cd8b66ba828
+msgid "After keying the above command, the process of system detection starts. During system detection the following information's regarding the corresponding machine are reported:"
+msgstr ""
+
+#: ../../systemdetection.rst:56
+# ac7dd9de48ea4a1086b83b73e359e715
+msgid "Operating System"
+msgstr ""
+
+#: ../../systemdetection.rst:57
+# 79263376c1f8423c88baaaaae4df20d8
+msgid "Linux Type"
+msgstr ""
+
+#: ../../systemdetection.rst:58
+# 86bfa4c6c37f4a66827172cc9e9127a6
+msgid "Distro"
+msgstr ""
+
+#: ../../systemdetection.rst:59
+# c1666ec48d394494a9ccd6fd5ab55b3a
+msgid "Version"
+msgstr ""
+
+#: ../../systemdetection.rst:60
+# 86a84670cd3149f7b9284ddecc5b71fb
+msgid "Architecture"
+msgstr ""
+
+#: ../../systemdetection.rst:61
+# fb6404d624884b55841c93711101e302
+msgid "Host Name"
+msgstr ""
+
+#: ../../systemdetection.rst:62
+# 74d5011fee264a6dbe880c949149d957
+msgid "IP Address 0."
+msgstr ""
+
+#: ../../systemdetection.rst:63
+# 1cc226086a204c5a880aab4c44ee2380
+msgid "IP Address 1."
+msgstr ""
+
+#: ../../systemdetection.rst:65
+# c7be57fa1f144cc1b39c590dd843b5f0
+msgid "Finally, after detection the information regarding the above mentioned features are clearly reported. The following screen shot depicts you about the process of system detection."
+msgstr ""
+
+#: ../../systemdetection.rst:93
+# e53d66b404db4cada07ef124377d9c74
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../systemdetection.rst:95
+# e12f6d41a8cc4af48ba4859323876aae
+msgid "Instead of system detection, the following parameters can be used:"
+msgstr ""
+
+#: ../../systemdetection.rst:98
+# 9032ec623c7b4fcbb18fe1e352412a05
+msgid "system-detection"
+msgstr ""
+
+#: ../../systemdetection.rst:99
+# 032eafe84ff2469faacff7fcd0da605f
+msgid "system detection"
+msgstr ""
+
+#: ../../systemdetection.rst:103
+# 18d635341abe48b299349cc8c618663b
+msgid "Benefits"
+msgstr ""
+
+#: ../../systemdetection.rst:104
+# 3fcc93fe0ff144cb9865d710c61b0b1d
+msgid "The users can configure the application settings using this system detections."
+msgstr ""
+
+#: ../../systemdetection.rst:105
+# 699d4f5db0c04806884099f73370629b
+msgid "The parameters used for declaring help command, system detection are not case sensitive which an added advantage while compared to others is."
+msgstr ""
+
+#: ../../systemdetection.rst:106
+# 77c42763bf314650989cd341a658a5b4
+msgid "It is well-to-do in both Cent OS and as well as in Ubuntu."
+msgstr ""
+
+#: ../../systemdetection.rst:107
+# 817ba62ad76d40b5ad88a35cc885eb85
+msgid "Non case sensitive."
+msgstr ""
+
+#: ../../systemdetection.rst:108
+# 5099c92f7b584ce4ba19600566e1038f
+msgid "Protection and security is possible. Preventing harm to the system and to resources, through internal processes or malicious outsiders. Authentication, ownership, and restricted access are obvious parts of this system."
+msgstr ""
+
+#: ../../systemdetection.rst:110
+# 37debf5291ed495b852b08e138ad8e0e
+msgid "System administrators generally determine which interface a user starts with when they first log in."
+msgstr ""
+
+#: ../../systemdetection.rst:111
+# be44b9060113483fb6cb06d1ad0e0a53
+msgid "Generally written in PHP, although some are written in assembly for optimal performance."
+msgstr ""
+
+#: ../../systemdetection.rst:113
+# 40eaac7f474645b1bdd058d2e6fe700d
+msgid "The system detection module provides the support: * Identify a remote process and/or host with which to communicate. * Establish a connection between the two processes. * Open and close the connection as needed. * Transmit messages along the connection."
+msgstr ""
+

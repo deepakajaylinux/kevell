@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../phpconf.rst:3
+# 8a31a793efbf4cd9b49dd330ffe4a9f9
+msgid "phpconf"
+msgstr ""
+
+#: ../../phpconf.rst:7
+# 28d1a20b91a040ca8b63421451cc7333
+msgid "Synopsis"
+msgstr ""
+
+#: ../../phpconf.rst:9
+# adabdd1874c94636ac4fba50435ce7ab
+msgid "This module assists in installing and as well as managing the configuration of php. The user can install Apache HTTP Server. The user can frame their configuration as per their requirement at the time of executing installation. The parameters used for declaring installation and help are not case sensitive."
+msgstr ""
+
+#: ../../phpconf.rst:12
+# 1db9f2cb3b6e4e78bea4da51a86ef201
+msgid "Help Command"
+msgstr ""
+
+#: ../../phpconf.rst:14
+# cdebbddbca654167a0c29cc4cfc35d0a
+msgid "The help command leads the user in working with this php config. It also specifies the command used for installation. The help command also list out the alternative parameters that can be used. The command used for help option under the php config is given below."
+msgstr ""
+
+#: ../../phpconf.rst:20
+# 84084da12e7642a28fb4e57ff63dfb30
+msgid "The screen shot as given below shows pictorial representation regarding the help usage in php config."
+msgstr ""
+
+#: ../../phpconf.rst:42
+# 48575cf00afb443f9a727801b16dda3e
+msgid "Installation"
+msgstr ""
+
+#: ../../phpconf.rst:44
+# 5f7d97660e4f4de8bb479a696062bec4
+msgid "Installing the php config is more beneficial for the users as they can frame the configuration as per their requirements. The command used for installation is given below:"
+msgstr ""
+
+#: ../../phpconf.rst:51
+# 7741d02e36bc4a9bae9047eddc0ca0aa
+msgid "After inputting the command as shown above the following operations occurs as shown in the tabular format."
+msgstr ""
+
+#: ../../phpconf.rst:149
+# 7ce63974108c4711aef9e2b222a9c7e1
+msgid "Options"
+msgstr ""
+
+#: ../../phpconf.rst:155
+# e18c3fd621404502959ae0b0f69a568b
+msgid "Parameters"
+msgstr ""
+
+#: ../../phpconf.rst:155
+# c76801bb47b44285af6e9cd04fe00a1f
+msgid "Alternative Parameters"
+msgstr ""
+
+#: ../../phpconf.rst:155
+# 506b9ef7bf574f09867761742073c10c
+msgid "Required"
+msgstr ""
+
+#: ../../phpconf.rst:155
+# 38613310137b405ebf9ec8a162f2f652
+msgid "Comment"
+msgstr ""
+
+#: ../../phpconf.rst:157
+# 036179e51e8941a7abe0fcef4538f719
+msgid "Install PHPConf?(Y/N)"
+msgstr ""
+
+#: ../../phpconf.rst:157
+# ad11889fa0794d4c83e02aa4a87946c2
+msgid "In Spite of PHP Conf these alternative names can be used: php-configure, php-conf php-configuration, phpconf"
+msgstr ""
+
+#: ../../phpconf.rst:158
+# 8790a42d0f91441396b1ddca6268af7a
+msgid "Y(YES)"
+msgstr ""
+
+#: ../../phpconf.rst:157
+# b2797ab35bcd45878c0ecfaf532995d9
+msgid "If the user wish to proceed the nstallation process they can input as Y"
+msgstr ""
+
+#: ../../phpconf.rst:164
+# f82e9811aa0745eaa6a5db6e396536a5
+msgid "Install PHPConf? (Y/N)"
+msgstr ""
+
+#: ../../phpconf.rst:164
+# 14922f2bc65f4f019beec8f3207cd11c
+msgid "In Spite of PHP Conf these alternative names can be used: php-configure, php-conf"
+msgstr ""
+
+#: ../../phpconf.rst:164
+# 3bc0c0e263ad4f0db3b4f894887f1f4f
+msgid "Y(Yes)"
+msgstr ""
+
+#: ../../phpconf.rst:164
+# 6c3b927f39b0400589fc5c3d48c0c34d
+msgid "If the user wish to quit the installation process they can input as N.|"
+msgstr ""
+
+#: ../../phpconf.rst:171
+# 94541bd53ac74954a8a24aa9b25bdba2
+msgid "If the user proceeds the installation process, while executing the installation, the module specifies the default value of configuration and also enquires the user to mention the non-default values for configuration as per their requirements. The specifications for configuration while installing is listed below:"
+msgstr ""
+
+#: ../../phpconf.rst:173
+# cd6fd65551e74e659ce842bb2594c2a7
+msgid "Value for user_ini.filename"
+msgstr ""
+
+#: ../../phpconf.rst:174
+# 3c160e44a154402185a828cb36e8da1a
+msgid "value for user_ini.cache_ttl?"
+msgstr ""
+
+#: ../../phpconf.rst:175
+# 60084a908ae54bcd8503e80d48a5ab44
+msgid "Value for engine."
+msgstr ""
+
+#: ../../phpconf.rst:176
+# 3b9ae5536fe442388b5f12cb91076e95
+msgid "value for short_open_tag."
+msgstr ""
+
+#: ../../phpconf.rst:177
+# 44f49f114ed24454819180c65957b66c
+msgid "value for asp_tags."
+msgstr ""
+
+#: ../../phpconf.rst:178
+# af6da3efe90640c496a2507fd37c8023
+msgid "value for precision."
+msgstr ""
+
+#: ../../phpconf.rst:179
+# 25bf32ed70aa4ee998a9598bc78fa29c
+msgid "value for y2k_compliance."
+msgstr ""
+
+#: ../../phpconf.rst:180
+# 0e5d3dfec06c48b5bcfe14fa4608dff8
+msgid "value for output_buffering."
+msgstr ""
+
+#: ../../phpconf.rst:181
+# 64fd8aef1b2a48229145198b0f3f494e
+msgid "value for output_handler."
+msgstr ""
+
+#: ../../phpconf.rst:182
+# 5ba9ad7903b84380b5039dc50e2d922e
+msgid "value for zlib.output_compression."
+msgstr ""
+
+#: ../../phpconf.rst:183
+# d4736f42e9f442a38a2a27b51ab4c97d
+msgid "value for zlib.output_compression_level."
+msgstr ""
+
+#: ../../phpconf.rst:184
+# db4b5a70e13940a3b6ac5707d1aca37a
+msgid "value for zlib.output_handler."
+msgstr ""
+
+#: ../../phpconf.rst:185
+# 7b2e609f75c54cc49f12f449fe47d2dd
+msgid "value for implicit_flush."
+msgstr ""
+
+#: ../../phpconf.rst:186
+# 7a407fe7bddb4f31aea6faaa69009040
+msgid "value for unserialize_callback_func."
+msgstr ""
+
+#: ../../phpconf.rst:187
+# 5b926b7d1eb64060ad3ec6f01a742493
+msgid "value for serialize precision."
+msgstr ""
+
+#: ../../phpconf.rst:188
+# f72dbddec906450784b8196409a08230
+msgid "value for allow_call_time_pass_reference."
+msgstr ""
+
+#: ../../phpconf.rst:189
+# 578dc33927f34caf878717ad8fd1b504
+msgid "value for safe_mode."
+msgstr ""
+
+#: ../../phpconf.rst:190
+# d85b272a447b4732a76993f89d94d673
+msgid "value for safe_mode_gid."
+msgstr ""
+
+#: ../../phpconf.rst:191
+# e59d5f124ddc4eb4a43c616c578a207a
+msgid "value for safe_mode_exec_dir?"
+msgstr ""
+
+#: ../../phpconf.rst:192
+# b1187efffd344ac1953860982c13e1f1
+msgid "value for safe_mode_allowed_env_vars."
+msgstr ""
+
+#: ../../phpconf.rst:193
+# 24debd7e106542e58de79f5a55835db2
+msgid "value for open basedir."
+msgstr ""
+
+#: ../../phpconf.rst:194
+# e77304f0abce436d8a06a6b5062f9fba
+msgid "value for disable functions."
+msgstr ""
+
+#: ../../phpconf.rst:195
+# 4353965d44a147af9459c9c33e3e162e
+msgid "value for disable_classes?"
+msgstr ""
+
+#: ../../phpconf.rst:196
+# f05ec547ada4453d8658fffbba4da0ac
+msgid "value for ignore_user_abort"
+msgstr ""
+
+#: ../../phpconf.rst:197
+# afc6919482d84761bad8adc4791aaa01
+msgid "value for realpath_cache_size?"
+msgstr ""
+
+#: ../../phpconf.rst:198
+# c4db209fdb1f453ba54a63b6167e1862
+msgid "value for realpath_cache_ttl."
+msgstr ""
+
+#: ../../phpconf.rst:199
+# 55d7b65987f04a31ba4041aa15a49e29
+msgid "value for zend.enable_gc."
+msgstr ""
+
+#: ../../phpconf.rst:200
+# 578a4b2e433e4748965444f56a101b92
+msgid "value for expose_php."
+msgstr ""
+
+#: ../../phpconf.rst:201
+# c3a59db56c3242af9214c52b2aa80ada
+msgid "value for max_execution_time."
+msgstr ""
+
+#: ../../phpconf.rst:202
+# 2b55e4a2fec44135ad6c795150081428
+msgid "value for max_input_time."
+msgstr ""
+
+#: ../../phpconf.rst:203
+# 614143a805d94768a9220fd2779874ab
+msgid "value for max_input_nesting_level."
+msgstr ""
+
+#: ../../phpconf.rst:204
+# b3fea193cd0743ff837465732af41113
+msgid "value for max_input_vars."
+msgstr ""
+
+#: ../../phpconf.rst:205
+# 76d25d46acd641a09ea5ce35c8d9eb14
+msgid "value for memory_limits."
+msgstr ""
+
+#: ../../phpconf.rst:207
+# 7aab663129044091ae85eb2f627b8795
+msgid "After looking at the default values for the configuration functions, the user can decide their actions. If they are oaky with default values they can input as N. If they require to specify the configuration values they can input as Y. The screen shot as shown below explains the above described process visually."
+msgstr ""
+
+#: ../../phpconf.rst:211
+# 6148095135084de691a5a635191c4a45
+msgid "Benefits"
+msgstr ""
+
+#: ../../phpconf.rst:213
+# 4b01635866d145359c69e9df74cc1b1f
+msgid "The parameters used for defining installation and help command is not case sensitive."
+msgstr ""
+
+#: ../../phpconf.rst:214
+# 4278032ba0924a578fe6554f130bbcc7
+msgid "The users can frame the configuration functions at the run-time of installation."
+msgstr ""
+
+#: ../../phpconf.rst:215
+# d9426ba64c884f52900ec9a358b14f52
+msgid "It works well on both Cent OS and windows."
+msgstr ""
+

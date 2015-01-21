@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kevell
+# This file is distributed under the same license as the KEVELL package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KEVELL 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 01:14+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../gitbucket.rst:3
+# 0fde63a7a97e4920abd826bab09cf57b
+msgid "Gitbucket"
+msgstr ""
+
+#: ../../gitbucket.rst:6
+# e57df658202943c8b86b88cb1aaae489
+msgid "Synopsis"
+msgstr ""
+
+#: ../../gitbucket.rst:8
+# ed88591246804e2f857df12d241198bd
+msgid "Git is a distributed revision control system with an emphasis on speed, data integrity and support for distributed, non-linear workflows. Git is the widely adopted version control system for software development."
+msgstr ""
+
+#: ../../gitbucket.rst:10
+# 97c1714b5dc849f7b139e69c75fc92e6
+msgid "Git working directory is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server."
+msgstr ""
+
+#: ../../gitbucket.rst:13
+# 05efb7ea2aaf4f178f82b9f1c8da2708
+msgid "Help Command"
+msgstr ""
+
+#: ../../gitbucket.rst:15
+# b926e863394e4eadb36139a3823167cd
+msgid "This command helps to determine the usage of gitbucket module. The user comes to know about the different ways/format to execute this module. This command guides the end user to know the purpose of this command. Below given are the command and the screenshot of the same."
+msgstr ""
+
+#: ../../gitbucket.rst:22
+# de4ceb58d249479e96957c4fd53384c4
+msgid "Installation"
+msgstr ""
+
+#: ../../gitbucket.rst:24
+# bc349114b1d74022ace97c54b3f93a04
+msgid "When the user needs to install gitbucket module in machine. The below given command will execute the process of installation. While installing, the system ask for repository root directory. User has to define the path. There is no default directory."
+msgstr ""
+
+#: ../../gitbucket.rst:32
+# 97ed0cc663f84b37a6194fdb7cccc273
+msgid "Options"
+msgstr ""
+
+#: ../../gitbucket.rst:37
+# 1b1bd3d906a341e590c5db3e3b45f279
+msgid "Parameters"
+msgstr ""
+
+#: ../../gitbucket.rst:37
+# 096d26311d244c8e900f318bb2218467
+msgid "Alternative Parameter"
+msgstr ""
+
+#: ../../gitbucket.rst:37
+# f47aa10bf50f41d78ab9d963e5b2bad3
+msgid "Option"
+msgstr ""
+
+#: ../../gitbucket.rst:37
+# 15e595fe74fa4dbf93cd7c377403d1b1
+msgid "Comments"
+msgstr ""
+
+#: ../../gitbucket.rst:39
+#: ../../gitbucket.rst:42
+# c518d5d816ea4049aeaaf7d66809455e
+# d8a1388318054eecb18dd7c26567f78d
+msgid "cleopatra  gitbucket Install"
+msgstr ""
+
+#: ../../gitbucket.rst:39
+#: ../../gitbucket.rst:42
+# 914e58d0e747402ba205221dbcf53da9
+# 0b8ca55d494047589bde44524d056f37
+msgid "GitBucket, gitbucket , git-bucket"
+msgstr ""
+
+#: ../../gitbucket.rst:39
+# 1db4e55d04814d63b4c5f7f90b8a000e
+msgid "Y"
+msgstr ""
+
+#: ../../gitbucket.rst:39
+# 0d9481c2cf99452ba98b3bb3600750fa
+msgid "System starts installation process"
+msgstr ""
+
+#: ../../gitbucket.rst:42
+# 9e47fcf259c741098747e7770259956f
+msgid "N"
+msgstr ""
+
+#: ../../gitbucket.rst:43
+# 67c87e04b267474baf164f59e30b00e0
+msgid "System stops installation|"
+msgstr ""
+
+#: ../../gitbucket.rst:49
+# 246ce63788d74ec1898492f4518b58bd
+msgid "Benefits"
+msgstr ""
+
+#: ../../gitbucket.rst:51
+# ccaa967f1d1340d6a914d2051daf7836
+msgid "Git supports rapid branching and merging, and includes specific tools for visualizing and navigating a non-linear development history."
+msgstr ""
+
+#: ../../gitbucket.rst:52
+# 781ab2993cac4303828239f2bd77b514
+msgid "Repositories can be published via HTTP, FTP, rsync, or a Git protocol over either a plain socket, or ssh."
+msgstr ""
+
+#: ../../gitbucket.rst:53
+# 9864821090464d5c878457aea5d6bb0b
+msgid "Git described as being very fast, scalable and showed it was an order of magnitude faster than some version-control systems, and fetching version history from a locally stored repository can be one hundred times faster than fetching it from the remote server."
+msgstr ""
+
